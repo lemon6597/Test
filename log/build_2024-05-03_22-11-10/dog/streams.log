@@ -1,0 +1,31 @@
+[0.039s] Invoking command in '/home/lemon/robb/build/dog': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lemon/turtlebot3_ws/install/turtlebot3_teleop:/home/lemon/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --build /home/lemon/robb/build/dog -- -j4 -l4
+[0.118s] Invoked command in '/home/lemon/robb/build/dog' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lemon/turtlebot3_ws/install/turtlebot3_teleop:/home/lemon/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --build /home/lemon/robb/build/dog -- -j4 -l4
+[0.196s] Invoking command in '/home/lemon/robb/build/dog': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lemon/turtlebot3_ws/install/turtlebot3_teleop:/home/lemon/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --install /home/lemon/robb/build/dog
+[0.210s] -- Install configuration: ""
+[0.211s] -- Execute custom install script
+[0.213s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/config/empty.yaml
+[0.214s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/config/view_bot.rviz
+[0.217s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/description/inertial_macros.xacro
+[0.221s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/description/robot.urdf.xacro
+[0.221s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/description/robot_core.xacro
+[0.223s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/description/robot_lidar.xacro
+[0.223s] -- Symlinking: /home/lemon/robb/install/dog/share/dog/description/robot_razebo.xacro
+[0.242s] -- Symlinking: /home/lemon/robb/install/dog/share/dog/launch/launch_sim.launch.py
+[0.261s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/launch/rsp.launch.py
+[0.262s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/worlds/empty.world
+[0.263s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/ament_index/resource_index/package_run_dependencies/dog
+[0.264s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/ament_index/resource_index/parent_prefix_path/dog
+[0.265s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/environment/ament_prefix_path.sh
+[0.265s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/environment/ament_prefix_path.dsv
+[0.266s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/environment/path.sh
+[0.267s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/environment/path.dsv
+[0.268s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/local_setup.bash
+[0.269s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/local_setup.sh
+[0.269s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/local_setup.zsh
+[0.270s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/local_setup.dsv
+[0.271s] -- Symlinking: /home/lemon/robb/install/dog/share/dog/package.dsv
+[0.288s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/ament_index/resource_index/packages/dog
+[0.289s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/cmake/dogConfig.cmake
+[0.289s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/cmake/dogConfig-version.cmake
+[0.290s] -- Up-to-date symlink: /home/lemon/robb/install/dog/share/dog/package.xml
+[0.296s] Invoked command in '/home/lemon/robb/build/dog' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lemon/turtlebot3_ws/install/turtlebot3_teleop:/home/lemon/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --install /home/lemon/robb/build/dog

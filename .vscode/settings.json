@@ -6,5 +6,6 @@
         "/opt/ros/foxy/lib/python3.8/site-packages"
     ],
     "cmake.sourceDirectory": "/home/lemon/robb/src/dog",
-    "cmake.configureOnOpen": false
+    "cmake.configureOnOpen": false,
+    "ros.distro": "foxy"
 }

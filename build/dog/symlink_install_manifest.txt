@@ -1,9 +1,13 @@
 /home/lemon/robb/install/dog/share/dog/config/empty.yaml
+/home/lemon/robb/install/dog/share/dog/config/my_controllers.yaml
 /home/lemon/robb/install/dog/share/dog/config/view_bot.rviz
 /home/lemon/robb/install/dog/share/dog/description/inertial_macros.xacro
 /home/lemon/robb/install/dog/share/dog/description/robot.urdf.xacro
 /home/lemon/robb/install/dog/share/dog/description/robot_core.xacro
+/home/lemon/robb/install/dog/share/dog/description/robot_gazebo.xacro
 /home/lemon/robb/install/dog/share/dog/description/robot_lidar.xacro
+/home/lemon/robb/install/dog/share/dog/description/ros2_control.xacro
+/home/lemon/robb/install/dog/share/dog/launch/launch_sim.launch.py
 /home/lemon/robb/install/dog/share/dog/launch/rsp.launch.py
 /home/lemon/robb/install/dog/share/dog/worlds/empty.world
 /home/lemon/robb/install/dog/share/ament_index/resource_index/package_run_dependencies/dog
